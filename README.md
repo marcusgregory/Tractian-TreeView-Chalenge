@@ -13,4 +13,15 @@ Tree View Challenge is a Flutter application designed to visualize and manage hi
         -   **Text Search**: Search for specific items within the asset hierarchy.
         -   **Energy Sensors**: Filter to show only energy sensors.
         -   **Critical Sensor Status**: Filter to identify assets with critical sensor status.
+     
+**Demo Video**
+
+You can view a demonstration of the application in the following video:
+
+[Watch the demo video](files/demo.mp4)
+
+
+**Future Improvements**
+
+If more time were available, I would implement Isolates to enhance the performance of the filters. This approach would help to avoid Jank on the screen by offloading heavy filtering tasks to separate threads, ensuring a smoother and more responsive user experience.
 
