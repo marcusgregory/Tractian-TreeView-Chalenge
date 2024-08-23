@@ -18,7 +18,6 @@ Tree View Challenge is a Flutter application designed to visualize and manage hi
 
 You can view a demonstration of the application in the following video:
 
-[Watch the demo video](files/demo.mp4)
 
 
 **Future Improvements**

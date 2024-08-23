@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import '../../shared/generics/tree.generic.dart';
+import '../../common/generics/tree.generic.dart';
 import '../../domain/entities/filterable.entity.dart';
 import 'asset_tree_node.widget.dart';
 

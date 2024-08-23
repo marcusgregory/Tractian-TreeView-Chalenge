@@ -1,6 +1,6 @@
 import 'package:result_dart/result_dart.dart';
 
-import '../../shared/generics/mapper.generic.dart';
+import '../../common/generics/mapper.generic.dart';
 import '../../domain/entities/asset.entity.dart';
 import '../../domain/entities/company.entity.dart';
 import '../../domain/entities/location.entity.dart';

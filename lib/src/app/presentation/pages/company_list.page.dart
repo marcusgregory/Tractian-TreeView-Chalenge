@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:treeview_challenge/src/app/presentation/pages/asset_tree.page.dart';
 
-import '../../shared/constants/constants.dart';
+import '../../common/constants/constants.dart';
 import '../controllers/company_list.controller.dart';
 import '../widgets/company_list.widget.dart';
 

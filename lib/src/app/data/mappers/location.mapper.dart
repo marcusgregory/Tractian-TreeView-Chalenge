@@ -1,4 +1,4 @@
-import '../../shared/generics/mapper.generic.dart';
+import '../../common/generics/mapper.generic.dart';
 import '../../domain/entities/location.entity.dart';
 import '../models/location.model.dart';
 

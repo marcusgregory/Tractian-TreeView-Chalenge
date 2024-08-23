@@ -1,4 +1,4 @@
-import '../../shared/generics/mapper.generic.dart';
+import '../../common/generics/mapper.generic.dart';
 import '../../domain/entities/company.entity.dart';
 import '../models/company.model.dart';
 

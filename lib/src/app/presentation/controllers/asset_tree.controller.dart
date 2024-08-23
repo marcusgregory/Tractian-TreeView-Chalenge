@@ -4,8 +4,8 @@ import 'dart:collection';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
-import '../../shared/generics/tree.generic.dart';
-import '../../shared/generics/tree_node.generic.dart';
+import '../../common/generics/tree.generic.dart';
+import '../../common/generics/tree_node.generic.dart';
 import '../../domain/entities/asset.entity.dart';
 import '../../domain/entities/filterable.entity.dart';
 import '../../domain/entities/location.entity.dart';

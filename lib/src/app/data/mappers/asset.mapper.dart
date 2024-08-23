@@ -1,4 +1,4 @@
-import '../../shared/generics/mapper.generic.dart';
+import '../../common/generics/mapper.generic.dart';
 import '../../domain/entities/asset.entity.dart';
 import '../../domain/enums/component_sensor_type.enum.dart';
 import '../../domain/enums/component_status.enum.dart';
