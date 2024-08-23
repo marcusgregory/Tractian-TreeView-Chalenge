@@ -15,13 +15,11 @@ Tree View Challenge is a Flutter application designed to visualize and manage hi
         -   **Critical Sensor Status**: Filter to identify assets with critical sensor status.
 
 
-        
+
 
 **Project Structure**
 
-bash
-
-`lib/
+lib/
   ├── data/
   │   ├── models/          # Data models for locations and assets
   │   ├── repositories/    # Implementations of data repositories
@@ -33,5 +31,5 @@ bash
   └── presentation/
       ├── pages/           # UI pages
       ├── viewmodels/      # State management and logic
-      └── widgets/         # Reusable UI components`
+      └── widgets/         # Reusable UI components
 
